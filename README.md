@@ -9,3 +9,5 @@ name :readme_edits
 
 
 20190211 0951
+
+check the command of "gti commit -a"
